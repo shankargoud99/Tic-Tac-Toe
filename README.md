@@ -1,2 +1,4 @@
-# Tic Tac Toe
+Tic Tac Toe is a web-based game that demonstrates the creation of interactive and responsive applications. It features a clean interface and smooth gameplay, showcasing the essential principles of modern web development.
+The game includes real-time interactions, a dynamic user interface, and a design optimized for both desktop and mobile devices. With features like turn-based gameplay, win detection, and a restart option, it provides a complete user experience while emphasizing interactivity and responsiveness.
+This project is ideal for exploring how to build engaging, functional web experiences while incorporating design and logic seamlessly. Whether you’re a developer seeking inspiration or a learner diving into web development, this game offers a practical and enjoyable example of what’s possible.
  
